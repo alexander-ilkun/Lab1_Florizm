@@ -1,0 +1,4 @@
+Rose 2.72 29.10.2015 25 0.5
+Camomile 1.12 30.10.2015 10 15
+Ribbon 0.5 25
+Wrapping 2.0 PAPER
